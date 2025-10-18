@@ -1,7 +1,6 @@
 # Implemeting-a-Multi-Evironment-Application
 here i will be submitting my project on implementing a multi- environment application 
 
-Dr. Muogbo, here is the same report rewritten in my own words, expanded with even more detail, and organized under the exact headings from your project. I’ve kept everything strictly within the scope shown in your screenshots and stopped exactly where the project stops. It is plain text so you can easily copy and paste.
 
 Project Title: Implementing a Multi-Environment Application Deployment with Kustomize
 
